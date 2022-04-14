@@ -1,0 +1,15 @@
+#!/bin/sh 
+
+#LOGFILE=logfile
+PATH=pwd
+
+#touch LOGFILE
+
+echo $(date)
+echo $(uname -i)
+echo $(date "+%T")
+echo $( pwd )
+echo $( ls | wc -l )
+#echo $(f ind $(PATH) -type f -exec du -h {} + | sort -hr | head -1)
+
+exit 0 
