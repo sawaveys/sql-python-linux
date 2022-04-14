@@ -1,0 +1,8 @@
+#!/bin/sh
+
+
+for i in $(ls *.txt); do mv $i $(basename $i .txt)_$(date +%Y%m%d).pdf; done  
+
+
+exit 0 
+
