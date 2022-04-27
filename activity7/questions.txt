@@ -1,0 +1,10 @@
+Q1: The five rings on the Olympic flag are interlocking;True
+Q2: Mount Kilimanjaro is the highest mountain in the world;False
+Q3: A group of swans is known as a bevy:True
+Q4: Sydney is the capital of Australia;False
+Q5: Glastonbury had been due to celebrate its 50th anniversary in June before the festival was cancelled?;True
+Q6: A heptagon has eight sides;False
+Q7: Fish cannot blink?;True
+Q8: Seahorses have no teeth or stomach;True
+Q9: Switzerland shares land borders with four other countries;False
+Q10: The knight is the only piece in chess which can only move diagonally;False
